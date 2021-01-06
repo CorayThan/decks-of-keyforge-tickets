@@ -8,10 +8,10 @@
 
 ## SAS Change request guidelines
 
-1. It is more important to prevent falsely overrated decks and cards than to accurately capture all value. Your idea should improve scores for almost all decks it touches, and very rarely make scores less accurate, especially overrated.
-2. If a card has not be included in the last two sets, it is considered a "legacy" card in terms of changes to SAS. Changes to legacy cards will only be considered if it is obviously inconsistent with other cards with similar scores, or there is an egregious problem.
-3. Make sure your change request is relevant. If you think a card is only off by 0.25 AERC most of the time, it probably isn't worth updating.
-4. Read the entire [about page](https://decksofkeyforge.com/about/sas)
+1. **Do No Harm** It is more important to prevent falsely overrated decks and cards than to accurately capture all value. Your idea should improve scores for almost all decks it touches, and very rarely cause a card to be overrated in value in decks.
+2. **Legacy Cards are lower priority** If a card has not be included in the last two sets, it is considered a "legacy" card in terms of changes to SAS. Changes to legacy cards will only be considered if it is obviously inconsistent with other cards with similar scores, or there is an egregious problem.
+3. **Avoid suggesting minor tweaks to scores** Make sure your change request is relevant. If you think a card is only off by 0.25 AERC most of the time, it probably isn't worth updating.
+4. Read the [About Page](https://decksofkeyforge.com/about/sas)
 5. Find and read any relevant sections in the [AERC rating guidelines](
 https://docs.google.com/document/d/1WkphfSzWj-hZ8l7BMhAgNF6-8b3Qj9cFiV7gGkR9HBU/edit?usp=sharing)
 6. [Search similar cards](https://decksofkeyforge.com/cards) to ensure your change request is consistent with existing cards.
