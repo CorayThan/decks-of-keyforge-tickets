@@ -3,7 +3,7 @@ name: AERC Change Request for Card
 about: Request a change to a card's AERC scores, traits, or synergies
 title: "[Card Name] – [Change Description]"
 labels: sas-change-for-card
-assignees: ''
+assignees: CorayThan
 
 ---
 
