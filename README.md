@@ -6,8 +6,8 @@
 
 #### Follow these steps before making a change request for a card or SAS in general.
 
-1. Read the entire (about page)[https://decksofkeyforge.com/about/sas].
-2. Find and read any relevant sections in the AERC rating guidelines.
+1. Read the entire [about page](https://decksofkeyforge.com/about/sas)
+2. Find and read any relevant sections in the AERC rating guidelines
 
 ## Resources
 
