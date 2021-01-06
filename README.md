@@ -2,6 +2,8 @@
 
 ## DoK Change request guidelines
 
+#### Submit bugs or request changes to the Decks of KeyForge website. See below to suggest changes to the SAS system or card ratings
+
 * Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-bug) or [features](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Adok-feature+) to make sure it hasn't already been reported before creating a ticket.
 
 [Propose a new DoK Feature](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=dok-feature&template=dok-feature-request.md&title=)
