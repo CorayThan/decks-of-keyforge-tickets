@@ -1,10 +1,10 @@
 # Decks of KeyForge and SAS Tickets
 
-### Report features for DoK, as well SAS improvement requests here.
+## DoK Change request guidelines
+
+Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-bug) or [features](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Adok-feature+) to make sure it hasn't already been reported before reporting issues or making change requests
 
 ## SAS Change request guidelines
-
-#### Want to suggest a change to SAS? Do these first!
 
 1. Read the entire [about page](https://decksofkeyforge.com/about/sas)
 2. Find and read any relevant sections in the [AERC rating guidelines](
