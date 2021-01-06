@@ -3,8 +3,8 @@
 ## DoK Change request guidelines
 
 * Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-bug) or [features](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Adok-feature+) to make sure it hasn't already been reported before creating a ticket.
-* [Propose a new DoK Feature](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=dok-feature&template=dok-feature-request.md&title=)
-* [Submit a bug with DoK](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=dok-bug&template=report-a-bug-with-dok.md&title=)
+[Propose a new DoK Feature](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=dok-feature&template=dok-feature-request.md&title=)
+[Submit a bug with DoK](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=dok-bug&template=report-a-bug-with-dok.md&title=)
 
 ## SAS Change request guidelines
 
@@ -17,8 +17,8 @@ https://docs.google.com/document/d/1WkphfSzWj-hZ8l7BMhAgNF6-8b3Qj9cFiV7gGkR9HBU/
 6. **Compare with existing cards** using the [card search tool](https://decksofkeyforge.com/cards) to ensure your change request is consistent with existing cards.**
 7. **Don't make duplicates** Search the [card change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Asas-change-for-card+) or [sas feature change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Asas-feature+) to make sure your request isn't a duplicate or hasn't already been rejected
 
-* [Propose an update to a card](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=sas-change-for-card&template=aerc-change-request-for-card.md&title=%5BCard+Name%5D+%E2%80%93+%5BChange+Description%5D)
-* [Propose a new SAS Feature](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=sas-feature&template=sas-feature-request.md&title=)
+[Propose an update to a card](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=sas-change-for-card&template=aerc-change-request-for-card.md&title=%5BCard+Name%5D+%E2%80%93+%5BChange+Description%5D)
+[Propose a new SAS Feature](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new?assignees=CorayThan&labels=sas-feature&template=sas-feature-request.md&title=)
 
 ## Resources
 
