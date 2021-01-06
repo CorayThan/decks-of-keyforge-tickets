@@ -9,8 +9,9 @@ Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-
 1. Read the entire [about page](https://decksofkeyforge.com/about/sas)
 2. Find and read any relevant sections in the [AERC rating guidelines](
 https://docs.google.com/document/d/1WkphfSzWj-hZ8l7BMhAgNF6-8b3Qj9cFiV7gGkR9HBU/edit?usp=sharing)
-3. Search the [card change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/sas-change) or [sas feature change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/sas-feature) to make sure your request isn't a duplicate
-4. Follow the SAS change proposal rules when [creating a ticket](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new)
+3. [Search similar cards](https://decksofkeyforge.com/cards) to ensure your change request is consistent with existing cards.
+4. Search the [card change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/sas-change) or [sas feature change issues](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/sas-feature) to make sure your request isn't a duplicate
+5. Follow the SAS change proposal rules when [creating a ticket](https://github.com/CorayThan/decks-of-keyforge-tickets/issues/new)
 
 ## Resources
 
