@@ -4,10 +4,13 @@
 
 ## SAS Change request guidelines
 
-#### Follow these steps before making a change request for a card or SAS in general.
+#### Want to suggest a change to SAS? Do these first!
 
 1. Read the entire [about page](https://decksofkeyforge.com/about/sas)
-2. Find and read any relevant sections in the AERC rating guidelines
+2. Find and read any relevant sections in the [AERC rating guidelines](
+https://docs.google.com/document/d/1WkphfSzWj-hZ8l7BMhAgNF6-8b3Qj9cFiV7gGkR9HBU/edit?usp=sharing)
+3. Search the [issues]() to make sure your request isn't a duplicate
+4. Follow the SAS change proposal rules when [creating a ticket]()
 
 ## Resources
 
