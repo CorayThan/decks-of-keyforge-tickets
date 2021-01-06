@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Read and follow the [SAS Change request guidelines](https://github.com/CorayThan/decks-of-keyforge-tickets#sas-change-request-guidelines)
+Read and follow the SAS Change request guidelines: https://github.com/CorayThan/decks-of-keyforge-tickets#sas-change-request-guidelines
 
 ### AERC Changes
 
