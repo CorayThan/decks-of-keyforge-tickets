@@ -2,7 +2,7 @@
 
 ## DoK Change request guidelines
 
-Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-bug) or [features](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Adok-feature+) to make sure it hasn't already been reported before reporting issues or making change requests
+Search [bugs](https://github.com/CorayThan/decks-of-keyforge-tickets/labels/dok-bug) or [features](https://github.com/CorayThan/decks-of-keyforge-tickets/issues?q=label%3Adok-feature+) to make sure it hasn't already been reported before creating a ticket.
 
 ## SAS Change request guidelines
 
