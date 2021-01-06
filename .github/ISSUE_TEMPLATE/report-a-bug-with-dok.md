@@ -7,6 +7,10 @@ assignees: CorayThan
 
 ---
 
+********
+This is not for reporting problems with the SAS or AERC rating of cards / decks! Use the Card change report template for that.
+********
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 

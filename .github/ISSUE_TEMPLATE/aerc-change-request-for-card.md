@@ -12,6 +12,9 @@ Read and follow the SAS Change request guidelines:
 https://github.com/CorayThan/decks-of-keyforge-tickets#sas-change-request-guidelines 
 ******************************************
 
+## Additional Card Names
+
+**List the names of additional cards that this change applies to, if it is a change proposal for multiple cards. Replace "[Card Name]" in the title with "Multiple Cards".**
 
 ### AERC Changes
 
