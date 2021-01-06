@@ -3,7 +3,7 @@ name: Report a bug with DoK
 about: Help fix issues with Decks of KeyForge
 title: ''
 labels: dok-bug
-assignees: ''
+assignees: CorayThan
 
 ---
 
